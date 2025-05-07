@@ -1,6 +1,6 @@
 # Kaspa DID Resolver
 
-A DID resolver for the `did:bidkee:kaspa` method, built for Bidkee 1.6 (artifact_id: e55e7453-5a30-4c0d-a737-10a2730423cb). It resolves decentralized identifiers (DIDs) on the Kaspa blockchain, supporting SHA-256 checkCodes, dual signatures (Schnorr/ECDSA), and integration with Veramo and Universal Resolver.
+A DID resolver for the `did:bidkee:kaspa` method, built for Bidkee 1.6 . It resolves decentralized identifiers (DIDs) on the Kaspa blockchain, supporting SHA-256 checkCodes, dual signatures (Schnorr/ECDSA), and integration with Veramo and Universal Resolver.
 
 ## Features
 - Resolves `did:bidkee:kaspa` DIDs using Kaspa blockchain and IPFS.
